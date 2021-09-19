@@ -1,9 +1,31 @@
 body {
   background-color: white;
 }
+
 header {
   background-color: lightblue;
   text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding-bottom: 20px;
+  padding-top: 40px;
+  margin: 20px;
+}
+
+li {
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  padding-left: 200px;
+}
+
+.nadpis-fotka {
+  background-color: whitesmoke;
+}
+
+.nadpis {
+  background-color: whitesmoke;
 }
 
 img {
@@ -12,7 +34,13 @@ img {
 }
 
 footer {
-  background-color: white;
+  background-color: whitesmoke;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-seriff;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .jmeno {
@@ -20,7 +48,17 @@ footer {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.sekce {
-  /*background-color: pink;*/
+.sekce1 {
+  background-color: pink;
+  padding: 20px;
+}
+
+.sekce2 {
+  background-color: lightskyblue;
+  padding: 20px;
+}
+
+.sekce3 {
+  background-color: #fdfd96;
   padding: 20px;
 }
