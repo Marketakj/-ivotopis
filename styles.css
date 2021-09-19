@@ -1,7 +1,24 @@
 body {
+  background-color: white;
+}
+header {
   background-color: lightblue;
+  text-align: center;
 }
 
+/*img {
+  position
+}*/
+
 footer {
-  background-color: lightgrey;
+  background-color: white;
+}
+
+.nadpis {
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sekce {
+  background-color: pink;
 }
