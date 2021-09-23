@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  border: 2px solid grey;
 }
 
 header {
@@ -18,6 +19,8 @@ li {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
   padding-left: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .nadpis-fotka {
@@ -31,6 +34,7 @@ li {
 img {
   width: 700px;
   height: 500px;
+  border: 2px solid grey;
 }
 
 footer {
@@ -55,6 +59,7 @@ ul {
 .sekce1 {
   background-color: pink;
   padding: 20px;
+  border-top: 2px solid grey;
 }
 
 .sekce2 {
@@ -63,6 +68,6 @@ ul {
 }
 
 .sekce3 {
-  background-color: #fdfd96;
+  background-color: #fdffd9;
   padding: 20px;
 }
