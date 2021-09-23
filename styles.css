@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  border: 2px solid grey;
+  border: 2px solid silver;
 }
 
 header {
@@ -34,7 +34,7 @@ li {
 img {
   width: 700px;
   height: 500px;
-  border: 2px solid grey;
+  border: 2px solid silver;
 }
 
 footer {
@@ -59,7 +59,7 @@ ul {
 .sekce1 {
   background-color: pink;
   padding: 20px;
-  border-top: 2px solid grey;
+  border-top: 2px solid silver;
 }
 
 .sekce2 {
